@@ -1,0 +1,18 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.box{background-color: black;
+    border-radius: 9px;
+color: white;
+width: 240px;
+height: 100px;
+margin-top: 400px;
+margin-bottom: 100px;
+margin-left: 600px;
+margin-right: 600px;
+text-align: center;
+font-size: 2em;
+padding-top: 40px;}
+.box:hover {background-color: orange;
+}

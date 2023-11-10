@@ -1,0 +1,19 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.box{background-color: blueviolet;
+width: 100%;
+padding-top: 200px;
+padding-left: 650px;
+height: 800px;}
+
+ .box1{
+    background-color:white;
+    text-align: center;
+   font-size: 2em;
+    width: 130px;
+    height: 40px;
+}
+.box1:hover{background-color: chartreuse;}

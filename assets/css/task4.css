@@ -1,0 +1,17 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.p1{margin-top: 80px;}
+p{margin-bottom: 20px;
+margin-top: 20px;}
+form{margin-bottom: 40px;
+}
+input[type="text"]{margin-bottom: 10px;}
+input[type="email"]{margin-bottom: 10px;}
+button[type="submit"]{margin-right: 10px;}
+.blue:hover{background-color: blue;
+width: 400px;
+height: 30px;}
+.yellow:hover{background-color: yellow;
+width: 400px;
+height: 30px;}

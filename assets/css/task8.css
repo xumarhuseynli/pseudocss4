@@ -1,0 +1,13 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+h1{color: darkturquoise;}
+h1 span{font-weight: 10;}
+h1 a:visited{color: darkslategray;}
+@font-face {
+    font-family: "raleway";
+    src: url(../fonts/Raleway-Italic-VariableFont_wght.ttf));
+}
+p{font-family: "raleway";
+  
+font-weight: 10;}

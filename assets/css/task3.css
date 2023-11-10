@@ -1,0 +1,6 @@
+*{
+
+box-sizing: border-box;}
+h1{margin-bottom: 60px;}
+.list:hover{background-color: coral;
+  color: red;}
